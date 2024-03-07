@@ -41,7 +41,7 @@ To run the analysis, follow these steps:
 
    ```bash
    git clone https://github.com/NataliiaShevchenko620/Pymaceuticals_challenge.git
-   cd mouse-study-analysis
+   cd Pymaceuticals_challenge
    ```
 2. Jupyter notebook
 
