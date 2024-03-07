@@ -43,6 +43,6 @@ To run the analysis, follow these steps:
    git clone https://github.com/NataliiaShevchenko620/Pymaceuticals_challenge.git
    cd Pymaceuticals_challenge
    ```
-2. Jupyter notebook
+2. Run pymaceuticals_solved.ipynb Jupyter notebook
 
 
