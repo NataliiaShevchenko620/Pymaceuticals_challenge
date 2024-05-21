@@ -20,15 +20,27 @@ The project is organized into several sections:
    - Presenting the summary statistics in a structured table.
 
 3. **Visualization:**
+
    - Generating bar plots to visualize the distribution of mouse timepoints across different drug regimens.
+
+   ![bar_chart](Images/bar_chart.png)
+
    - Creating pie charts to illustrate the sex distribution among mice.
 
+   ![pie_chart](Images/pie_chart.png)
+
 4. **Quartiles, Outliers, and Boxplots:**
+
    - Identifying potential outliers and analyzing the distribution of tumor volume for selected drug regimens using boxplots.
 
+   ![boxplot](Images/boxplot.png)
+
 5. **Correlation and Regression:**
+
    - Investigating the correlation between mouse weight and average tumor volume.
    - Performing linear regression analysis to model the relationship between weight and tumor volume.
+
+   ![regression](Images/regression.png)
 
 6. **Conclusion:**
    - Summarizing key findings and insights obtained from the analysis.
